@@ -1,0 +1,15 @@
+C:\Users\whoami\VS Code\OOP\OOP_2\bin\Debug\net7.0\OOP_2.exe
+C:\Users\whoami\VS Code\OOP\OOP_2\bin\Debug\net7.0\OOP_2.deps.json
+C:\Users\whoami\VS Code\OOP\OOP_2\bin\Debug\net7.0\OOP_2.runtimeconfig.json
+C:\Users\whoami\VS Code\OOP\OOP_2\bin\Debug\net7.0\OOP_2.dll
+C:\Users\whoami\VS Code\OOP\OOP_2\bin\Debug\net7.0\OOP_2.pdb
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.csproj.AssemblyReference.cache
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.AssemblyInfoInputs.cache
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.AssemblyInfo.cs
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.csproj.CoreCompileInputs.cache
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.dll
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\refint\OOP_2.dll
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.pdb
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\OOP_2.genruntimeconfig.cache
+C:\Users\whoami\VS Code\OOP\OOP_2\obj\Debug\net7.0\ref\OOP_2.dll
